@@ -1,4 +1,4 @@
-# Discord Loading 1 of 1 Update fix (Mac only)
+# Discord Downloading update 1 of 1 fix (Mac only)
 
 ![Discord Loading](Images/loading.avif)
 
